@@ -1,5 +1,5 @@
 /**
- * @mainpage HomeWork1-ThreeMusketeers
+ * @mainpage ThreeMusketeers
  * 
  * @author Michalis Christodoulou
  * 
